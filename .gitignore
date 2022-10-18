@@ -5,3 +5,6 @@ Saved/
 *.sln
 .vs/
 *.vcxproj.user
+Plugins/
+.idea/
+.vsconfig
